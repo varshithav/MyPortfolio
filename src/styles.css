@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+a{
+    color: darkcyan;
+}
+#profileImage {
+    border-radius: 50%;
+  }
+body{
+    text-align: center;
+    font-family: cursive;
+    color: whitesmoke;
+    background-color: dimgray;
+}
+#portfolioNavBar{
+    text-align: right;
+}
+#candidateName{
+ font-size: 2.rem;
+    color:purple;
+}
